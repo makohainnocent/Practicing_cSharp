@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HiArqex69e424KZiLdi57MrDbfS1TtPViydqBt5CKpFcG/3n6HqRPXd1aY6vYmCkC9IeCWAZBX8V6lOo+olDfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanta\\source\\repos\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanta\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
