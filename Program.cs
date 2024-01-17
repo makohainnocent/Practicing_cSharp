@@ -3,6 +3,7 @@ using HelloWorld.types.Classes;
 using HelloWorld.types.structs;
 using HelloWorld.generics;
 using HelloWorld.colections;
+using HelloWorld.EventsAndDelegates;
 
 public class Program
 {
@@ -47,7 +48,10 @@ public class Program
         //Collections.searching_array_with_binary_search();
         //Collections.jagged_arrays();
         //Collections.rectangular_arrays();
-        Collections.array_copy_methode();
+        //Collections.array_copy_methode();
+
+
+        Delegates.basicExample1();
     }
 }
 
